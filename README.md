@@ -1,33 +1,13 @@
-
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3amY3Ym50ZmJyZTR2Z2R4dnljZ3U5M2UzbmR1dzB6eDBtM2U2M2c0cCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/103liSxCY1NpLO/giphy.gif" width="600" alt="Ironman Suit Up" />
 </p> 
 
-<!-- <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NXd6eXc4eGVxZmVxNjJncGJyY29xN2NsazhndmE4am1jcG1icjd6OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lRpvmChZEteVIFgQtV/giphy.gif" width="600" alt="Ironman Suit Up" />
-</p> -->
+<h1 align="center">Hey there, I'm Sourabh Chouhan 👋</h1>
 
+<p align="center">
+  <strong>Frontend & Creative Developer | Generative AI & Automation Enthusiast</strong>
+</p>
 
-<!-- <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bzF3OHozOWNxbDE1cm1pcHI4cnRud3N3bWh6M2Fua3cwOWN4dGozMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/g4sCZhKykg1z2/giphy.gif" width="600" alt="Ironman Suit Up" />
-</p>   -->
-
-
-<!--
- <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bDhocXdoMGR0Y2JvdndkdjZqMXFpOHdtdXM5YXo2eXJ3bG1zbWRvNyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/TI2u0IZsJhQebPdEVo/giphy.gif" width="600" alt="Ironman Suit Up" />
-</p> 
-
- -->
-
-
-<!-- <p align="center">
-  <img src="" width="600" alt="Ironman Suit Up" />
-</p> 
- -->
-<h1 align="center">Hey there, I'm Sourabh 👋</h1>
-
- 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=NoobSourabh&style=for-the-badge&color=blue" alt="Profile views" />
 </p>
@@ -35,57 +15,113 @@
 ---
 
 ### 👨‍💻 About Me  
-I'm a passionate **Frontend Developer** who loves building clean, responsive, and user-friendly web applications using **React.js** and **JavaScript**.  
-Also a **C++ enthusiast** with strong fundamentals in **DSA**, problem-solving, and logical thinking.  
-I enjoy learning new technologies and continuously improving my skills. 🚀
+I'm a **Frontend Developer** who specializes in building high-performance web applications, interactive creative tools, browser extensions, and AI automation workflows. Passionate about modern frontend architectures, 3D/canvas graphics, video export pipelines, and problem solving with clean code.
+
+- 📍 Based in **Indore, India**
+- 💼 Currently working as **Frontend Developer** at **RSENL AI Labs**
+- 🚀 Exploring creative engineering with **React**, **Next.js**, **Three.js**, **WebCodecs**, and **Generative AI**
+
+---
+
+### 💼 Experience
+
+#### 🏢 **RSENL AI LABS** — *Frontend Developer*
+`Remote` • `Sept 2025 – Present`
+
+- 🎬 **Video Automation & AI Analysis:** Built a 4K video automation utility (Python, Playwright, FFmpeg) and Gemini AI analysis script for a Netflix pilot, automating expression tagging across 100+ reaction clips to cut 40+ hours of manual editing down to minutes.
+- 🔍 **AI OCR Extraction:** Engineered an automated AI OCR extraction workflow via a custom Chrome Extension (Manifest V3, React) to parse unstructured newspaper auction clippings, boosting listing throughput by 100x and reducing manual data entry by 99% with zero API costs.
+- 📊 **Bank Auction Property Scraper:** Developed a property scraper (Manifest V3, React) processing thousands of daily listings with automated duplicate-checking, missing data backfilling, and direct cloud sync to Google Sheets and Drive.
+- 🎥 **High-Performance Video Pipeline:** Implemented video export pipelines for an in-house browser motion graphics editor, integrating WebCodecs, Mediabunny, and FFmpeg to support MP4, PNG sequences, and transparent ProRes 4444 MOV stream-to-disk exports.
+- ⚡ **High-Converting Web Experiences:** Designed and built responsive landing pages and product showcases with physics-based GSAP ScrollTrigger animations, interactive focal carousels, and optimized Core Web Vitals via Cloudflare Pages and Next.js.
+- 🤖 **Generative AI Workflows:** Developed and refined Generative AI prompt systems and creative workflows to simplify complex production tasks, improve visual consistency, and maximize content-generation efficiency.
 
 ---
 
 ### 🛠️ Tech Stack  
-- **Frontend:** React.js, Redux, TailwindCSS, CSS3, HTML5  
-- **Programming Languages:** JavaScript, C, C++
-- **Tools & Platforms:** Git, GitHub, VS Code, Cursor, Netlify, Vercel  
-- **Core CS:** DSA, OOPs, DBMS, OS,
+
+- **Programming Languages:** JavaScript (ES6+), TypeScript, C++, Python, SQL  
+- **Frontend & UI:** React.js, Next.js, Redux Toolkit, Zustand, TailwindCSS, CSS3, HTML5, React Flow  
+- **Graphics & Animation:** Three.js, p5.js, Canvas API, WebCodecs, Mediabunny, GSAP, Framer Motion, Remotion  
+- **Tools & Platforms:** Git, GitHub, VS Code, Cursor, Antigravity, FFmpeg, Playwright, Polar.sh, Cloudflare Pages, Vercel, Netlify  
+- **Core CS Fundamentals:** Data Structures & Algorithms, Object-Oriented Programming (OOPs), DBMS, Operating Systems  
 
 ---
 
 ### 🏗️ Featured Projects  
 
+#### 🍌 **Banana Shake**
+*Chrome Extension • Manifest V3 • Google Gemini • Google Sheets • Google Drive • OAuth 2.0 • Polar.sh*  
+- Engineered a production-grade Chrome Extension (MV3) that automates batch image generation on Google Gemini, using Google Sheets as a live job queue and Google Drive for automated uploads.
+- Developed an automated OCR extraction workflow with custom LLM prompts to parse unstructured newspaper clippings for 100+ daily auctions, boosting ingestion by 100x and cutting manual transcription by 99%.
+- Architected background service workers with dynamic ESM loaders via Vite, integrating Polar.sh license monetization and secure Google OAuth 2.0 authentication.
+
+---
+
+#### 🎬 **Moji**
+*React • TypeScript • Three.js • p5.js • WebCodecs • Mediabunny • FFmpeg • Canvas API*  
+- Developed a browser-based video editor interface from scratch with modular React components, responsive canvas scaling, dynamic layout tabs, and custom keyboard shortcuts.
+- Integrated live runtime compilers for Three.js and p5.js to preview and render real-time 3D scenes, shaders, and kinetic typography.
+- Implemented high-performance video export pipelines supporting client-side MP4 via Mediabunny/WebCodecs, PNG sequences, and transparent ProRes 4444 MOV with Alpha channels.
+- Built an interactive multi-track timeline featuring audio synchronization, dynamic aspect ratio resizing, and custom font embedding.
+
+---
+
 #### 🧭 [Campus Connect](https://campus-connect-iet.vercel.app)
-A platform for IET-DAVV students to share interview experiences and connect with peers.  
-🔹 **Tech:** React.js, Redux, TailwindCSS  
-🔹 **Features:** State management, reusable components, smooth UI  
+*React.js • Redux • TailwindCSS*  
+A community platform for IET-DAVV students to share interview experiences and connect with peers.
 
 ---
 
 #### 💹 [Crypto Dashboard](https://sourabhcryptodashboard.netlify.app)
-A responsive cryptocurrency tracker dashboard.  
-🔹 **Tech:** React.js, Chart.js, Material UI, Framer Motion  
-🔹 **Features:** Search, pagination, watchlist, dark/light mode  
-
----
-
-#### 🧠 [QRify](https://sourabhqrify.netlify.app)
-Convert text to QR codes instantly with this simple and responsive **React.js** project.  
-🔹 **Tech:** React.js, CSS  
-🔹 **Features:** Create, download, and share QR codes easily  
+*React.js • Chart.js • Material UI • Framer Motion*  
+A responsive cryptocurrency tracker dashboard with real-time searches, watchlists, pagination, and dark/light modes.
 
 ---
 
 #### 🎨 [Texel](https://texel.netlify.app)
-A **freelance project** built completely from scratch, converting a **Figma design into a pixel-perfect React.js website**.  
-🔹 **Tech:** React.js, TailwindCSS, SVGs  
-🔹 **Features:** Fully responsive, pixel-perfect UI, built from design to deployment  
+*React.js • TailwindCSS • SVGs*  
+A freelance client project built from scratch, transforming Figma designs into a pixel-perfect, responsive React web app.
+
+---
+
+#### 🧠 [QRify](https://sourabhqrify.netlify.app)
+*React.js • CSS*  
+Instant text-to-QR code generator with customizable options and one-click download/sharing.
+
+---
+
+### 🏆 Achievements & Key Highlights  
+- 🌐 **Industry Recognition:** Represented **RSENL AI Labs** at the **India AI Impact Summit 2026**.
+- 🎨 **Design Leadership:** Played a key role as Graphic Designer for the Entrepreneurship Cell of IET DAVV, designing layouts for the first-ever college magazine publication.
+
+---
+
+### 🎓 Education  
+- **Institute of Engineering Technology, DAVV (Indore)**  
+  *Bachelor of Engineering (B.E.) in Information Technology* | `2020 – 2024`  
+  *CGPA:* `6.96`
 
 ---
 
 ### 🎯 Interests & Hobbies  
-💻 Coding • 🎮 Online Games • 💪 Gym • 🎬 Video Editing • 😄 Memes  
+💻 Creative Coding • 🤖 AI Workflows • 🎬 Video Editing • 🎮 Online Games • 💪 Fitness • 😄 Memes  
 
 ---
 
 ### 📫 Connect With Me  
-<p align="center"> <a href="https://github.com/NoobSourabh" target="_blank"> <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> <a href="https://www.linkedin.com/in/sourabh-chouhan31" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://leetcode.com/" target="_blank"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /> </a> </p>
+<p align="center">
+  <a href="https://github.com/NoobSourabh" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/sourabh-chouhan31/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/u/SourabhNoob/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
+  <a href="mailto:inbox.sourabhc@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ---
-
