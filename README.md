@@ -49,6 +49,22 @@ I'm a **Frontend Developer** who specializes in building high-performance web ap
 
 ### 🏗️ Featured Projects  
 
+#### 🚌 [TransitOps](https://github.com/kalp-cg/TransitOps-odoo)
+*React • Vite • Node.js • Express.js • PostgreSQL • JWT • Nodemailer*
+- Built a role-based fleet operations platform that unifies vehicle and driver management, trip dispatch, maintenance, expense tracking, and regulatory-document compliance.
+- Implemented six permission-aware user roles, live trip lifecycle workflows, driver safety scoring, and automated expiry alerts for vehicle documents.
+- Added analytics dashboards, CSV reporting, and seven automated email notification flows for key operations events.
+
+---
+
+#### 🪑 [Urban Furniture Accounting System](https://github.com/KunalWaghe/Urban-Furniture-Accounting-System---Outliers)
+*Next.js • React • TypeScript • FastAPI • PostgreSQL • Tailwind CSS • JWT*
+- Developed a full-stack, double-entry accounting system for furniture businesses, spanning master data, purchase and sales workflows, invoices, payments, and journal entries.
+- Built role-based access control, an analytics and budgeting layer, and automatically balanced financial records for every transaction.
+- Delivered responsive dashboards with Balance Sheet, Profit & Loss, and budget reports, including CSV and PDF export.
+
+---
+
 #### 🍌 **Banana Shake**
 *Chrome Extension • Manifest V3 • Google Gemini • Google Sheets • Google Drive • OAuth 2.0 • Polar.sh*  
 - Engineered a production-grade Chrome Extension (MV3) that automates batch image generation on Google Gemini, using Google Sheets as a live job queue and Google Drive for automated uploads.
