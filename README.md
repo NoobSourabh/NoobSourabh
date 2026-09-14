@@ -49,19 +49,23 @@ I'm a **Frontend Developer** who specializes in building high-performance web ap
 
 ### 🏗️ Featured Projects  
 
-#### 🚌 [TransitOps](https://github.com/kalp-cg/TransitOps-odoo)
-*React • Vite • Node.js • Express.js • PostgreSQL • JWT • Nodemailer*
-- Built a role-based fleet operations platform that unifies vehicle and driver management, trip dispatch, maintenance, expense tracking, and regulatory-document compliance.
-- Implemented six permission-aware user roles, live trip lifecycle workflows, driver safety scoring, and automated expiry alerts for vehicle documents.
-- Added analytics dashboards, CSV reporting, and seven automated email notification flows for key operations events.
+#### 🚌 [TransitOps — Fleet Operations Platform](https://github.com/KunalWaghe/TransitOps-Outliers)
+*Odoo Hackathon 2026 — Round 1 Problem Statement Solution (Qualified for Round 2)*  
+*React 19 • Vite • Tailwind CSS • FastAPI • PostgreSQL • SQLAlchemy • JWT • Recharts*
+- Engineered a centralized fleet operations platform for logistics companies as part of **Team Outliers** for the **Odoo Hackathon 2026 Round 1**, qualifying the team for Round 2.
+- Implemented complete trip lifecycles (Draft → Dispatched → Completed) with automated resource allocation that locks vehicles and drivers during active journeys.
+- Developed role-based access control (Fleet Managers, Dispatchers, Safety Officers, Financial Analysts), maintenance logging, expense tracking, and real-time dashboard analytics.
+- 🔗 **Repo:** [TransitOps-Outliers](https://github.com/KunalWaghe/TransitOps-Outliers) • 🌐 **Live Demo:** [transitops-outliers-site.onrender.com](https://transitops-outliers-site.onrender.com/)
 
 ---
 
 #### 🪑 [Urban Furniture Accounting System](https://github.com/KunalWaghe/Urban-Furniture-Accounting-System---Outliers)
-*Next.js • React • TypeScript • FastAPI • PostgreSQL • Tailwind CSS • JWT*
-- Developed a full-stack, double-entry accounting system for furniture businesses, spanning master data, purchase and sales workflows, invoices, payments, and journal entries.
-- Built role-based access control, an analytics and budgeting layer, and automatically balanced financial records for every transaction.
-- Delivered responsive dashboards with Balance Sheet, Profit & Loss, and budget reports, including CSV and PDF export.
+*Odoo Hackathon 2026 — Round 2 Problem Statement Solution*  
+*Next.js 16 • React • TypeScript • FastAPI • PostgreSQL (Neon) • Tailwind CSS • JWT*
+- Developed a full-stack, double-entry ERP accounting system as **Team Outliers** for the **Odoo Hackathon 2026 Round 2** challenge following Round 1 qualification.
+- Architected a robust double-entry bookkeeping engine where purchase/sales workflows, customer invoices, and payments automatically generate balanced journal entries.
+- Built role-based access control, master data management, and financial reporting modules generating real-time Balance Sheet, Profit & Loss, and budget variance reports with PDF/CSV export.
+- 🔗 **Repo:** [Urban-Furniture-Accounting-System---Outliers](https://github.com/KunalWaghe/Urban-Furniture-Accounting-System---Outliers)
 
 ---
 
@@ -107,6 +111,7 @@ Instant text-to-QR code generator with customizable options and one-click downlo
 ---
 
 ### 🏆 Achievements & Key Highlights  
+- 🥇 **Odoo Hackathon 2026 — Round 1 Winner & Round 2 Qualifier:** Selected in Round 1 among competing teams to qualify and advance to Round 2 with **Team Outliers**, designing and building production-grade solutions for both rounds: [TransitOps](https://github.com/KunalWaghe/TransitOps-Outliers) (Round 1) and [Urban Furniture Accounting System](https://github.com/KunalWaghe/Urban-Furniture-Accounting-System---Outliers) (Round 2).
 - 🌐 **Industry Recognition:** Represented **RSENL AI Labs** at the **India AI Impact Summit 2026**.
 - 🎨 **Design Leadership:** Played a key role as Graphic Designer for the Entrepreneurship Cell of IET DAVV, designing layouts for the first-ever college magazine publication.
 
