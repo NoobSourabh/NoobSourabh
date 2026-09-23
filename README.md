@@ -23,6 +23,13 @@ I'm a **Frontend Developer** who specializes in building high-performance web ap
 
 ---
 
+### 🌐 Portfolio
+
+- 🧑‍💻 **GitHub Pages:** [noobsourabh.github.io/myportfolio](https://noobsourabh.github.io/myportfolio/)
+- ⚡ **Netlify:** [sourabhchouhanportfolio.netlify.app](https://sourabhchouhanportfolio.netlify.app/)
+
+---
+
 ### 💼 Experience
 
 #### 🏢 **RSENL AI LABS** — *Frontend Developer*
@@ -131,6 +138,12 @@ Instant text-to-QR code generator with customizable options and one-click downlo
 
 ### 📫 Connect With Me  
 <p align="center">
+  <a href="https://noobsourabh.github.io/myportfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-GitHub%20Pages-24292f?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio on GitHub Pages" />
+  </a>
+  <a href="https://sourabhchouhanportfolio.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio on Netlify" />
+  </a>
   <a href="https://github.com/NoobSourabh" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
