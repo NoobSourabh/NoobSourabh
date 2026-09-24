@@ -33,7 +33,7 @@ I'm a **Frontend Developer** who specializes in building high-performance web ap
 ### 💼 Experience
 
 #### 🏢 **RSENL AI LABS** — *Frontend Developer*
-`Remote` • `Sept 2025 – Present`
+`Remote` • `Sept 2024 – Present`
 
 - 🎬 **Video Automation & AI Analysis:** Built a 4K video automation utility (Python, Playwright, FFmpeg) and Gemini AI analysis script for a Netflix pilot, automating expression tagging across 100+ reaction clips to cut 40+ hours of manual editing down to minutes.
 - 🔍 **AI OCR Extraction:** Engineered an automated AI OCR extraction workflow via a custom Chrome Extension (Manifest V3, React) to parse unstructured newspaper auction clippings, boosting listing throughput by 100x and reducing manual data entry by 99% with zero API costs.
